@@ -1,0 +1,113 @@
+
+    media_questions = [  # all questions for media topic
+        "¿Te gusta ver la televisión?",
+        "¿Cuànto tiempo pasas normalmente delante de la televisión?",
+        "¿Cuándo ves la televisión?",
+        "¿Piensas que es bueno ver mucho televisión?",
+        "¿Qué tipo de programas prefieres?",
+        "¿Cuál es tu serie programa favorita?",
+        "¿Piensas que ver la televisión en un buen pasatiempo?",
+        "¿Cuáles son las ventajas y desventajas de la tele?",
+        "¿Utilazas mucho el ordenador?",
+        "¿Qué haces normalmente de internet?",
+        "¿Cuáles so las ventajas y desventajas de internet/ del móvil?"
+    ]
+    family_questions = [  # all questions for family topic
+        "¿Cómo es tu familia?",
+        "¿Te llevas bien con tu familia?",
+        "¿Qué te gusta hacer con tu familia?",
+        "¿Discutís de vez en cuando/ a veces? ¿Por qué?",
+        "¿Cuáles son los problemas familiares?",
+        "¿Debes ayudar en cass?",
+        "¿Cómo son los padres ideales en tu opinion?",
+        "¿Qué es un buen amigo?",
+        "¿Te parece que es importante pasar tiempo con los amigos?"
+    ]
+    job_studies_questions = [  # all questions for part time job and study topic
+        "¿Trabajas a tiempo partial?",
+        "Cuéntame un poco de tu trabajo.",
+        "¿Qué te gusta y no te gusta de tu trabajo? ",
+        "¿Qué tieres que hacer bien para hacer tu trabajo?",
+        "¿Por qué piensas que es una cosa buena / mala tener un trabajo a tiempo parcial?",
+        "¿Has hecho prácticas?",
+        "¿Cómo fue?",
+        "¿Qué quieres hacer en la vida?",
+        "¿Qué tipo de trabajo te interesa?",
+        "¿Cuál sería un trabajo ideal para ti?",
+        "¿Tener un trabajo a tiempo parcial es más importante que estudiar?",
+        "¿Qué son tus ambiciones para el futuro?"
+    ]
+    holidays_travel_questions = [  # all questions for holidays and travel topic
+        "¿Por qué le gusta viajar a la gente?",
+        "¿Qué tipo de vacaciones te gustan?",
+        "¿Tienes la intención de viajar en el futuro?",
+        "¿Normalmente, vas de vacaciones con to familia?",
+        "¿Cuáles son las ventajas de viajar con tu familia?",
+        "¿Cuáles son las desventajas de viajar con tu familia?",
+        "¿Qué haces normalmente an tus vacaciones?",
+        "¿Qué hacías en tus vacaciones cuando eras pequeño?",
+        "Cuéntame sobre tus vacaciones.",
+        "¿Si te quedas en Edimburgo durante tus vacaciones, qué te gusta hacer?",
+        "¿Has participado en una excursión extraescolar?",
+        "¿Te gustaría ir de vacaciones con tus amigos?",
+        "¿Qué vas a hacer este verano?",
+        "¿Para ti, cómo son las vacaciones ideales?"
+    ]
+    lifestyles = [  # all questions for lifestyle topic
+        "¿Qué haces para estar en forma?",
+        "¿Ha cambiado tu rutina este año?",
+        "¿Crees que estás en forma?",
+        "¿Piensas que el tabaco es un problema?",
+        "¿Piensas que hay mchos jóvenes que fuman?",
+        "¿Piensas que el consumo de alcohol es un problema?",
+        "¿Piensas que hay muchos jóvenes que beben alcohol?",
+        "¿Piensas que el alcohol es un problema?",
+        "¿Piensas que las drogas son un problema?",
+        "¿Piensas que hay muchos jóvenes que toman dragas?",
+        "¿Piensas que es importante comer equilibrado?",
+        "¿Qué comes normalmente?",
+        "¿Intentas comer equilibrado?",
+        "¿El deporte y el ejercicio son importantes para salud?",
+        "¿Haces mucho deporte?",
+        "¿Piensas que los adolescentes hacen suficiente deporte?",
+        "¿Cuáles son tus pasatiempos?",
+        "¿Qué haces en tu tiempo libre para relajante?",
+        "¿Piensas que es importante tener pasatiempos?"
+    ]
+    citizenship = [  # all questions for citizenship topic
+        "¿Dónde vives?",
+        "¿Qué piensas de tu ciudad/pueblo?",
+        "¿Cuáles son las ventajes o desvantajas de vivir en tu ciudad/pueblo?",
+        "¿Qué piensas de la vida en el campo?",
+        "¿Cuál es la diferencia entre la vida en la ciudad y la vida en el campo?",
+        "¿Dónde preferirías vivir?",
+        "¿Respetas el medioambiente?",
+        "¿En tu casa qué haces para el medioambiente?"
+    ]
+    school = [  # all questions for school topic
+        "¿Piensas que la educación es importante?",
+        "¿Cómo es tu instituto?",
+        "¿Cómo es el ambiente en el instituto?",
+        "¿En general, cómo son los otros estudiantes?",
+        "¿Qué te gusta del colegio?",
+        "¿Qué no te gusta del colegio?",
+        "¿Qué te gustaría cambiar en tu instituto?",
+        "¿Qué asignaturas has escogido?",
+        "¿Cuáles son tus asignaturas preferidas?",
+        "¿Qué asignaturas no te gustan?",
+        "¿Es imprtante estudiar una lengua extranjera?",
+        "¿En general, qué piensas de los profesores?",
+        "¿Las reglas del colegio, son demasiado estrictas?",
+        "¿Qué piensas del uniforme?",
+        "Describe tu uniforme.",
+        "¿Piensas que es una buena idea llevar uniforme?",
+        "¿Te sientes estresado en el instituto?",
+        "¿Tienes demasiado trabajo?",
+        "¿Cuáles son tus responsabilidades en el instituto?",
+        "¿Haces alguna actividad extraescolar?",
+        "¿Cuáles son las ventajas y desvantajas de esta actividad?",
+        "¿Has ganado algún premio o partido importante?",
+        "¿Vas a continuar con esta actividad en el futuro?",
+        "¿Qué vas a hacer el año que viene?",
+        "¿Continuarás estudiando?"
+    ]
